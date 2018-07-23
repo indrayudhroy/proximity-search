@@ -1,0 +1,8 @@
+run "C:/Users/Root/College/Courses/Csc 583/Assignment 2/docs.txt"
+run docs.txt
+run "C:/Users/Root/College/Courses/Csc 583/Assignment 2/docs.txt"
+run docs.txt
+exit
+run docs.txt
+sbt
+run docs.txt

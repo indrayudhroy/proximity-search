@@ -1,0 +1,299 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$docOffsetTuple$3.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$docOffsetTuple$4$.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$offsetTuple$3.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$offsetTuple$4$.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$termDocTuple$3.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$termDocTuple$4$.class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch.class
+binary dependencies:
+2 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> C:\Users\Indra\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$docOffsetTuple$3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$docOffsetTuple$4$
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$offsetTuple$3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$offsetTuple$4$
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$termDocTuple$3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch$termDocTuple$4$
+used names:
+177 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> &&
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> +
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ++=
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> +=
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> -
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ->
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> <
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> <=
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> <byname>
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> <init>
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> <repeated>
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ==
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> >
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> A
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> AbstractFunction2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> AbstractFunction3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Any
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> AnyRef
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Array
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ArrayBuffer
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ArrayOps
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ArrowAssoc
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> B
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Boolean
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Breaks
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> BufferedSource
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> CanBuildFrom
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Char
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Class
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ClassTag
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Codec
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Coll
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Function1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> IndexOutOfBoundsException
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Int
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Iterable
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Iterator
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> K
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> L
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ListBuffer
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Map
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> MatchError
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> None
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Nothing
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Object
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Option
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Ordering
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Predef
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Product
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ProximitySearch
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ScalaRunTime
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Serializable
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Some
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Source
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Statics
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> StdIn
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> String
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> StringOps
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> T
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> T0
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> T1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> T2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> T3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> That
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> TraversableOnce
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Tuple2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Tuple3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> U
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> Unit
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> V
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> W
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> _$7
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> _1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> _2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> _hashCode
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> _root_
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> _toString
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> abs
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> answer
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> anyHash
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> apply
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> args
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> asInstanceOf
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> augmentString
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> break
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> breakable
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> canBuildFrom
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> clear
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> collection
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> compareTo
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> control
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> currentDocID
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> currentDocPositionTuple
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> directionalFlag
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> directionalToggle
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> doc
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> docID
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> docOffsetTuple
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> eq
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> fallbackSystemCodec
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> fileLines
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> finalizeHash
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> foreach
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> fromFile
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> getLines
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> groupBy
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> hashMapOfTerms
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> i
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> immutable
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> inputQuery
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> io
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> isInstanceOf
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> k
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> keys
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> length
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> line
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> map
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> mapTermToFrequency
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> mapValues
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> matchingDocID
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> materializeClassTag
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> math
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> mix
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> mutable
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ne
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ofRef
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offset1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offset2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offsetMap1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offsetMap2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offsetPtr1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offsetPtr2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> offsetTuple
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> package
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> position
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> positionCounter
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> positions1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> positions2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> postingsList1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> postingsList2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> println
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ps
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ptr1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ptr2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> queryTokens
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> readLine
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> refArrayOps
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> reflect
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> remove
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> runtime
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> scala
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> solutionTuple
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> sortBy
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> split
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> t
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> term
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> term1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> term2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> termDocTuple
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> termList
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> toArray
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> toInt
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> toLowerCase
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> toString
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> tokenList
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> typedProductIterator
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> util
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> v
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$1
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$2
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$3
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$4
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$5
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$6
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$7
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> while$8
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> ||
+product stamps:
+8 items
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$.class -> lastModified(1532322220639)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$docOffsetTuple$3.class -> lastModified(1532322220639)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$docOffsetTuple$4$.class -> lastModified(1532322220639)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$offsetTuple$3.class -> lastModified(1532322220654)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$offsetTuple$4$.class -> lastModified(1532322220654)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$termDocTuple$3.class -> lastModified(1532322220639)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch$termDocTuple$4$.class -> lastModified(1532322220654)
+C:\Users\Indra\Desktop\Projects\proximity search\target\scala-2.12\classes\ProximitySearch.class -> lastModified(1532322220623)
+source stamps:
+1 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> hash(15af110761db294b9110d88c9c79b2e4a05b1fda)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar -> lastModified(1485296572262)
+C:\Users\Indra\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Indra\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -> scala.Serializable
+internal apis:
+1 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDyrAxAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3/DdFnQABm5vdGlmeXNxAH4ADIqxe5Z0AAR3YWl0c3EAfgAM35gQKXQADSRhc0luc3RhbmNlT2ZzcQB+AAyOQ+L+dAAGZXF1YWxzc3EAfgAMNleqoHQADGFzSW5zdGFuY2VPZnNxAH4ADEpnQFF0AAxzeW5jaHJvbml6ZWRzcQB+AAxVWuhXdAANJGlzSW5zdGFuY2VPZnNxAH4ADKmsfZ50AARtYWluc3EAfgAMHz+aNHQACW5vdGlmeUFsbHNxAH4ADPj1Omp0AAxpc0luc3RhbmNlT2ZzcQB+AAwDtWpYdAACPT1zcQB+AAxrR/y9dAAFY2xvbmVzcQB+AAyPdL3UdAAPUHJveGltaXR5U2VhcmNoc3EAfgAMqsTAnHQACHRvU3RyaW5nc3EAfgAM5DaYX3QAAiE9c3EAfgAMSsPA23QACGdldENsYXNzc3EAfgAM1DZ+LHQAAm5lc3EAfgAMrbIoeHQAAmVxc3EAfgAMgHECM3QAAiMjc3EAfgAMu0vOCnQACGZpbmFsaXplc3EAfgAMOYPMjHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkxYV2yXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEpDOlxVc2Vyc1xJbmRyYVxEZXNrdG9wXFByb2plY3RzXHByb3hpbWl0eSBzZWFyY2hcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBWvEQdh2ylLkRDYjJx5suSgWx/a
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Indra\Desktop\Projects\proximity search\src\main\scala\ProximitySearch.scala -> 
+AAAAAAAAAAA=
+compilations:
+27 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWlmEchZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAakM6XFVzZXJzXFJvb3RcQ29tcHV0ZXIgU2NpZW5jZVxQcm9ncmFtbWluZ1xJbnRlbGxpSiBQcm9qZWN0c1xDc2M1ODNfQXNzaWdubWVudF8yXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWlmFVMF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAakM6XFVzZXJzXFJvb3RcQ29tcHV0ZXIgU2NpZW5jZVxQcm9ncmFtbWluZ1xJbnRlbGxpSiBQcm9qZWN0c1xDc2M1ODNfQXNzaWdubWVudF8yXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWlmGUXN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAakM6XFVzZXJzXFJvb3RcQ29tcHV0ZXIgU2NpZW5jZVxQcm9ncmFtbWluZ1xJbnRlbGxpSiBQcm9qZWN0c1xDc2M1ODNfQXNzaWdubWVudF8yXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMREWlx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRHALl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRHU6x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRicg51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRkHFJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRmIhV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRnEB51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRqnM51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRxj4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRyqQ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMRziM91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMR0DAd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMR36bB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMR5AGN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMR/8Yd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMSAQjx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMSPh011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMSRhml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMSdCMB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMSedMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMTXxQF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMTYzAJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMTZxVV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMWFdsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEluZHJhXERlc2t0b3BcUHJvamVjdHNccHJveGltaXR5IHNlYXJjaFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
